@@ -1,0 +1,4 @@
+{
+    "command": "./gradlew dependencies",
+    "working_directory": "/home/kavia/workspace/code-generation/real-time-chat-api-25779-25788/chat_backend"
+}
